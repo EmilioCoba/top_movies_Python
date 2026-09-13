@@ -28,6 +28,7 @@ python-dotenv
 HTML / Jinja2
 
 Screenshots: 
+
 1.Homepage
 ![Screenshot 1](screenshot1.png)
 2.Search Movie Title
